@@ -2,7 +2,7 @@
 
 ## Description
 
-Refactored HTML to ensure accessibility requirements were met to optimize webpage for search engines. Also corrected issues with broken links and added more descriptive page titles. 
+Refactored code to ensure accessibility requirements were met, to optimize page for search engine discovery, and to consolidate and streamline code. Corrected issues with broken links and added more descriptive page titles where needed. 
 
 ## Installation
 
