@@ -6,7 +6,7 @@ Refactored code to ensure accessibility requirements were met, to optimize page 
 
 ## Preview
 
-![Website Preview Image](../assets/images/HoriseonPreview.png)
+![Website Preview Image](./assets/images/HoriseonPreview.png)
 
 ## Installation
 
